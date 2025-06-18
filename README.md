@@ -43,6 +43,7 @@ Visualized insights like:
 * Distribution of age, fare, and family size
 * Correlation heatmap of key features
 * Count plots for survival vs class, gender, embark location
+![Screenshot 2025-06-18 141925](https://github.com/user-attachments/assets/93a17fb0-a2ef-487e-9da0-6287980a97d7)
 
 ---
 
